@@ -1,6 +1,6 @@
-class Kirin extends AbstractKoma {
+class Lion extends AbstractKoma {
 
-  Kirin(String name, int x, int y, int team, boolean active) {
+  Lion(String name, int x, int y, int team, boolean active) {
     super(name, x, y, team, active);
   }
 }
